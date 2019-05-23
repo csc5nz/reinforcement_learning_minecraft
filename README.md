@@ -12,6 +12,6 @@ Malmo and Mincecraft are used to create the enviroment that the AI agent will na
 
 
 ### How to Run
-Install Malmo
-Copy finalproject.py and finalproject.xml into the Python_Example folder in Malmo.
-Execute: python finalproject.py
+- Install Malmo    
+- Copy finalproject.py and finalproject.xml into the Python_Example folder in Malmo.    
+- Execute: python finalproject.py
